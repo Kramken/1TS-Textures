@@ -1,4 +1,4 @@
-1. Its highly recommended you install Environmental Visual Enhancements Volumetrics Release 4, and its corresponding installation of Scatterer API.
+1. Its highly recommended you install Environmental Visual Enhancements Volumetrics Release 4, and its corresponding installation of Scatterer API. DOES NOT WORK WITH RELEASE 5
 
 Download: https://www.patreon.com/posts/true-volumetric-94613561
 
@@ -22,14 +22,18 @@ Download: https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMa
 
 Download: https://github.com/Sushutt/ScaledDecorator/releases
 
-7. Its highly recommended you have Deferred Rendering installed.
+7.Install Singularity
+
+Download: https://github.com/LGhassen/Singularity/releases/tag/0.991
+
+8. Its highly recommended you have Deferred Rendering installed.
 
 Download: https://www.patreon.com/posts/deferred-106557481
 
-8. Drag the folder inside into gamedata
+9. Drag the folder inside into gamedata
 
-Install the textures here:
+Install the textures here: https://github.com/Kramken/1TS-Textures/releases/tag/Release
 
-9. Drag the textures into gamedata
+10. Drag the textures into gamedata
 
-10. Enjoy!
+11. Enjoy!
