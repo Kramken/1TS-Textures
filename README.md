@@ -26,14 +26,18 @@ Download: https://github.com/Sushutt/ScaledDecorator/releases
 
 Download: https://github.com/LGhassen/Singularity/releases/tag/0.991
 
-8. Its highly recommended you have Deferred Rendering installed.
+8. Install Vertex Height Oblate Advanced
+
+Download: https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases
+
+9. Its highly recommended you have Deferred Rendering installed.
 
 Download: https://www.patreon.com/posts/deferred-106557481
 
-9. Drag the folder inside into gamedata
+10. Drag the folder inside into gamedata
 
 Install the textures here: https://github.com/Kramken/1TS-Textures/releases/tag/Release
 
-10. Drag the textures into gamedata
+11. Drag the textures into gamedata
 
-11. Enjoy!
+12. Enjoy!
