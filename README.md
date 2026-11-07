@@ -1,4 +1,4 @@
-1. Its highly recommended you install Environmental Visual Enhancements Volumetrics Release 4, and its corresponding installation of Scatterer API. DOES NOT WORK WITH RELEASE 5
+1. Its highly recommended you install Environmental Visual Enhancements Volumetrics Release 5, and its corresponding installation of Scatterer API. DOES NOT WORK WITH RELEASE 4 OR LESS
 
 Download: https://www.patreon.com/posts/true-volumetric-94613561
 
@@ -21,10 +21,6 @@ Download: https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMa
 6. Make sure you have Scaled Decorator installed.
 
 Download: https://github.com/Sushutt/ScaledDecorator/releases
-
-7.Install Singularity
-
-Download: https://github.com/LGhassen/Singularity/releases/tag/0.991
 
 8. Install Vertex Height Oblate Advanced
 
