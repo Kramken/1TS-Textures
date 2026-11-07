@@ -10,7 +10,7 @@ Download: https://github.com/jamespglaze/VertexColorMapEmissive/releases/tag/v1.
 
 Download: https://github.com/Kopernicus/Kopernicus/releases
 
-4. Make sure you have Parallax Continued (the stock configs are NOT required)
+4. Make sure you have Parallax Continued YOU NEED 1.1.0 OR NEWER OR THE MOD WILL NOT WORK (the stock configs are NOT required)
 
 Download: https://github.com/Gameslinx/Parallax-Continued/releases
 
